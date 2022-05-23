@@ -1,0 +1,79 @@
+#maincon #span1{
+color:yellow ;
+}
+*{
+	
+}
+#nav{
+
+	display: flex;
+	justify-content: space-evenly;
+	
+	margin-top: -40px;
+}
+
+
+#nav #sub{
+
+	border-radius: 6px;
+	padding: 5px;
+
+}
+#nav #sub:hover{
+        padding: 12px;
+        background-color: red;
+}
+#space{
+	
+	height: 150px;
+}
+#intro{
+
+	margin-left: 100px;
+}
+#cool5{
+	
+	color: red;
+}
+#Aboutme{
+	
+	width: 250px;
+       margin: auto;
+     position: relative;
+     top: -320px;
+}
+
+#myimg{
+	
+	width: 500px;
+	height: 300px;
+	
+	
+	margin: 0px;
+object-fit: contain;
+			object-position: left;
+	
+
+	margin-left: 100px;
+}
+#inav{
+	color: red;
+	font-size: 40px;
+	position: relative;
+	
+	left: 120px;
+}
+#ipic{
+	color: red;
+	font-size: 40px;
+	position: relative;
+	
+	left: 120px;
+}
+#icont{
+	color: red;
+	font-size: 40px;
+	position: relative;
+	
+	left: 120px;
+}
